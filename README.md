@@ -1,4 +1,4 @@
-# DiceGameDesignPatika
+# Dice Game Design Patika
 
 This is the final part of patika BSC Bootcamp.
 
